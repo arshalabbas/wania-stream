@@ -1,0 +1,17 @@
+{
+  "name": "wania-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "youtube-sr": "^4.1.7",
+    "ytdl-core": "^4.9.0"
+  }
+}
